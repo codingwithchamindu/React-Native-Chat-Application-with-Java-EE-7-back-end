@@ -21,4 +21,5 @@ This project is a React Native Chat Application built for my final viva project.
 
 ## **UI Designs**
 
+![image alt](https://github.com/codingwithchamindu/React-Native-Chat-Application-with-Java-EE-7-back-end/blob/main/ChattUi1.png?raw=true)
 ![image alt]()
